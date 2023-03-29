@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Rubén's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenbuelvas&theme=dark&show_icons=true)
+![Rubén's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenbuelvas&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenbuelvas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
