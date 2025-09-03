@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a web marketplace with Go and my abandoned Data Science projects
 - 🌱 I’m currently learning Reinforcement Learning and Godot
-- 📫 How to reach me: rcbuelvasv@gmail.com / linkedin.com/in/rubenbuelvas
+- 📫 How to reach me: rcbuelvasv@gmail.com / [LinkedIn](https://www.linkedin.com/in/rubenbuelvas/)
 - 😄 Pronouns: he/him
 
 <!--!
