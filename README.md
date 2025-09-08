@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenbuelvas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on a web marketplace with Go and my abandoned Data Science projects
+- 🔭 I’m currently working on a web marketplace with Go and finishing my abandoned Data Science projects
 - 🌱 I’m currently learning Reinforcement Learning and Godot
 - 📫 How to reach me: rcbuelvasv@gmail.com / [LinkedIn](https://www.linkedin.com/in/rubenbuelvas/)
 - 😄 Pronouns: he/him
